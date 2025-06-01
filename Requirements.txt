@@ -1,0 +1,6 @@
+pip install fastapi
+pip install uvicorn
+pip install pydantic
+pip install pickle5
+pip install scikit-learn
+pip install numpy
